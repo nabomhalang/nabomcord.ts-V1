@@ -1,1 +1,1 @@
-# nabomcord.ts-V1
+# nabomcord-V1
